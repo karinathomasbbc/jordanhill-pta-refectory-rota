@@ -2,7 +2,7 @@
 
 | Date | Lead | Helpers | 
 | -- | -- | -- | 
-| Saturday 11th January 2025 | Lucy | Kirsty Graham, Roslyn, Hazel | 
+| ~Saturday 11th January 2025~ | ~Lucy~ | ~Kirsty Graham, Roslyn, Hazel~ | 
 | Saturday 18th January 2025 | Jo | Karina, Marian, Kirsty B | 
 | Saturday 25th January 2025 | Gillian | Homayra, Duncan/Isabel, Sarah |
 | Saturday 1st February 2025 | Morag | Susan, Roslyn, Gail |
