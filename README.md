@@ -9,7 +9,7 @@
 | Saturday 8th February 2025 | Caroline | Karina, Sarah, Pippa | 
 | Saturday 22nd February 2025 | Homayra | TBD, TzeYeng, TBD | 
 | Saturday 1st March 2025 | Jo | Hazel, Susan, Gail  | 
-| Saturday 8th March 2025 | Gillian | Duncan/Isabel, Karina, Anne | 
+| Saturday 8th March 2025 | Gillian | Duncan/Isabel, Anne, TBD | 
 | Saturday 15th March 2025 | Morag | Hazel, Roslyn, Gail | 
 | Saturday 22nd March 2025 | Kirsty Graham | Pippa, TzeYeng, Lucy | 
 | Saturday 29th March 2025 | Caroline | Marian, Sarah, Roslyn | 
@@ -26,7 +26,7 @@
 | Saturday 8th February 2025 | TzeYeng, Duncan/Isabel, Lucy, Susan, Kirsty B, Homayra, Marian  | 
 | Saturday 22nd February 2025 | Karina, Susan, Kirsty Graham, Anne, Sarah, Lucy, Kirsty B | 
 | Saturday 1st March 2025 | Karina, TzeYeng, Duncan/Isabel, Caroline, Homayra, Marian | 
-| Saturday 8th March 2025 | TzeYeng, Lucy, Susan, Pippa, Homayra, Marian, Kirsty B | 
+| Saturday 8th March 2025 | TzeYeng, Lucy, Susan, Pippa, Homayra, Marian, Kirsty B, Karina | 
 | Saturday 15th March 2025 | TzeYeng, Duncan/Isabel, Susan, Caroline, Homayra, Jo |
 | Saturday 22nd March 2025 | Karina, Gail, Homayra | 
 | Saturday 29th March 2025 | TzeYeng, Lucy, Susan, Anne, Homayra | 
