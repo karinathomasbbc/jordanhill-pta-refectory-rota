@@ -5,7 +5,7 @@
 | ~Saturday 11th January 2025~ | ~Lucy~ | ~Kirsty Graham, Roslyn, Hazel~ | 
 | Saturday 18th January 2025 | Jo | Karina, Marian, Kirsty Brown | 
 | ~Saturday 25th January 2025~ | ~Gillian~ | ~Homayra, Duncan/Isabel, Sarah~ |
-| Saturday 1st February 2025 | Morag | Susan, Roslyn, Gail |
+| Saturday 1st February 2025 | ~Morag~ | ~Susan, Roslyn, Gail~ |
 | Saturday 8th February 2025 | Caroline | Karina, Sarah, Pippa | 
 | Saturday 22nd February 2025 | Homayra | Kirsty Graham, TzeYeng, Mhairi | 
 | Saturday 1st March 2025 | Jo | Hazel, Susan, Gail  | 
