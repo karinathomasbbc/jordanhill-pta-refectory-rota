@@ -1,4 +1,4 @@
-# Jordanhill School Parent Teacher Association - Saturday Refectory Rota
+9# Jordanhill School Parent Teacher Association - Saturday Refectory Rota
 
 | Date | Lead | Helpers | 
 | -- | -- | -- | 
@@ -12,7 +12,7 @@
 | Saturday 8th March 2025 | Gillian | Duncan/Isabel, Anne, Kirsty Graham | 
 | Saturday 15th March 2025 | Morag | Hazel, Roslyn, Gail | 
 | Saturday 22nd March 2025 | Kirsty Graham | Pippa, TzeYeng, Lucy | 
-| Saturday 29th March 2025 | Caroline | Marian, Sarah, Roslyn | 
+| Saturday 29th March 2025 | Caroline | Sarah, Roslyn, TBD | 
 
 
 ## Availability
