@@ -1,4 +1,4 @@
-9# Jordanhill School Parent Teacher Association - Saturday Refectory Rota
+# Jordanhill School Parent Teacher Association - Saturday Refectory Rota
 
 | Date | Lead | Helpers | 
 | -- | -- | -- | 
