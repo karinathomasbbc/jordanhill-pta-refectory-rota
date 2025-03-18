@@ -29,6 +29,6 @@
 | Saturday 8th March 2025 | TzeYeng, Lucy, Susan, Pippa, Homayra, Marian, Kirsty Brown, Karina | 
 | Saturday 15th March 2025 | TzeYeng, Duncan/Isabel, Susan, Caroline, Homayra, Jo |
 | Saturday 22nd March 2025 | Karina, Gail, Homayra | 
-| Saturday 29th March 2025 | TzeYeng, Lucy, Susan, Anne, Homayra | 
+| Saturday 29th March 2025 | TzeYeng, Lucy, Susan, Anne, Homayra, Karina| 
 
 
