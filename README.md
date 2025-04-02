@@ -1,34 +1,15 @@
 # Jordanhill School Parent Teacher Association - Saturday Refectory Rota
 
-| Date | Lead | Helpers | 
-| -- | -- | -- | 
-| ~Saturday 11th January 2025~ | ~Lucy~ | ~Kirsty Graham, Roslyn, Hazel~ | 
-| Saturday 18th January 2025 | Jo | Karina, Marian, Kirsty Brown | 
-| ~Saturday 25th January 2025~ | ~Gillian~ | ~Homayra, Duncan/Isabel, Sarah~ |
-| ~Saturday 1st February 2025~ | ~Morag~ | ~Susan, Roslyn, Gail~ |
-| Saturday 8th February 2025 | Gail | Karina, Sarah, Pippa | 
-| Saturday 22nd February 2025 | Homayra | Kirsty Graham, TzeYeng, Marian | 
-| Saturday 1st March 2025 | Jo | Hazel, Susan, Morag  | 
-| Saturday 8th March 2025 | Gillian | Duncan/Isabel, Anne, Kirsty Graham | 
-| Saturday 15th March 2025 | Morag | Hazel, Roslyn, Gail | 
-| Saturday 22nd March 2025 | Kirsty Graham | Pippa, TzeYeng, Mhairi, (Standby: Marian) | 
-| Saturday 29th March 2025 | Homayra | Sarah, Roslyn, Lucy | 
+| Date                    | Leader           | Helpers                            | Standby                                                                             |
+| ----------------------- | ---------------- | ---------------------------------- | ----------------------------------------------------------------------------------- |
+| **Saturday 26th April** | Jo Irwin         | Duncan/Isabel Boyd, Karina Thomas  | **Uniform Sale Volunteers** <br> 8-10 volunteers required <br> Kirsty B unavailable |
+| **Saturday 10th May**   | Homayra Aslam    | Pippa Watson, Roslyn Pettigrew     |                                                                                     |
+| **Saturday 17th May**   | Gillian Morrison | Kirsty Brown, Marian Quinn         |                                                                                     |
+| **Saturday 31st May**   | Morag Munro      | Sarah Mackay, TzeYeng              |                                                                                     |
+| **Saturday 7th June**   | Kirsty Graham    | Gail Lappin, Karina Thomas         |                                                                                     |
 
 
-## Availability
 
-| Date | Unavailable | 
-| -- | -- |
-| Saturday 11th January 2025 | Duncan/Isabel, Gail, Susan, Anne, Roslyn, Marian | 
-| Saturday 18th January 2025 | TzeYeng, Gail, Anne, Duncan/Isabel |
-| Saturday 25th January 2025 | TzeYeng, Lucy, Susan, Anne, Pippa, Kirsty Brown | 
-| Saturday 1st February 2025 | TzeYeng, Lucy, Caroline, Marian | 
-| Saturday 8th February 2025 | TzeYeng, Duncan/Isabel, Lucy, Susan, Kirsty Brown, Homayra, Marian  | 
-| Saturday 22nd February 2025 | Karina, Susan, Kirsty Graham, Anne, Sarah, Lucy, Kirsty Brown | 
-| Saturday 1st March 2025 | Karina, TzeYeng, Duncan/Isabel, Caroline, Homayra, Marian | 
-| Saturday 8th March 2025 | TzeYeng, Lucy, Susan, Pippa, Homayra, Marian, Kirsty Brown, Karina | 
-| Saturday 15th March 2025 | TzeYeng, Duncan/Isabel, Susan, Caroline, Homayra, Jo |
-| Saturday 22nd March 2025 | Karina, Gail, Homayra | 
-| Saturday 29th March 2025 | TzeYeng, Lucy, Susan, Anne, Homayra, Karina| 
+
 
 
