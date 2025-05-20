@@ -6,7 +6,7 @@
 | **Saturday 10th May**   | Homayra Aslam    | Pippa Watson, Roslyn Pettigrew     |                                                                                     |
 | **Saturday 17th May**   | Gillian Morrison | Kirsty Brown, Marian Quinn         |                                                                                     |
 | **Saturday 31st May**   | Morag Munro      | Sarah Mackay, Kirsty Graham              |                                                                                     |
-| **Saturday 7th June**   |  Anne MacFarlane   | Gail Lappin, Karina Thomas    |                                                                                     |
+| **Saturday 7th June**   |  Anne McFarlane   | Gail Lappin, Karina Thomas    |                                                                                     |
 
 
 
