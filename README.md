@@ -1,11 +1,13 @@
 # Jordanhill School Parent Teacher Association - Saturday Refectory Rota
 
-✅ = Confirmed
+✅ Confirmed
+
+<mark>Shift Completed</mark>
 
 | Date           | Leader        | Helpers                             | Standby |
 |----------------|--------------|-------------------------------------|-----|
-| Saturday 23 August | **Homayra Aslam** | <ol><li>Duncan Boyd</li><li>Marian Quinn</li><li>Susan Rodger</li></ol>| _P1 Meet & Greet_: <ol><li>Caroline Beaton</li><li>Morag Munro</li></ol><br/> _On Call_: <ol><li>Gillian Morrison</li><li>Mhairi Speirs</li></ol> |
-| Saturday 30 August | **Jo Irwin**     | <ol><li>TzeYeng</li><li>Roslyn Pettigrew</li> <li>Anne McFarlane</li></ol>| |
+| <mark>Saturday 23 August | <mark>**Homayra Aslam** | <ol><li><mark>Duncan Boyd</li><li><mark>Marian Quinn</li><li><mark>Susan Rodger</li></ol>| <mark>_P1 Meet & Greet_: <ol><li><mark>Caroline Beaton</li><li><mark>Morag Munro</li></ol><br/> <mark>_On Call_: <ol><li><mark>Gillian Morrison</li><li><mark>Mhairi Speirs</li></ol> |
+| <mark>Saturday 30 August | <mark>**Jo Irwin**     | <ol><li><mark>TzeYeng</li><li><mark>Roslyn Pettigrew</li> <li><mark>Anne McFarlane</li></ol>| |
 | Saturday 6 September  | **Gillian Morrison** | <ol><li>Pippa Watson</li><li>Kirsty Graham</li><li>Sarah Mackay</li></ol>| |
 | Saturday 13 September | **Morag Munro** | <ol><li>Karina Thomas ✅</li><li>Gail Lappin ✅</li><li>TBD</li></ol> | | 
 | <b><i>NOT YET CONFIRMED</i></b> |
