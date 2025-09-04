@@ -13,5 +13,5 @@
 | <b><i>NOT YET CONFIRMED</i></b> |
 | Saturday 20 September | <i>**Caroline Beaton**</i> | <i><ol><li>Marian Quinn</li><li>Mhairi Speirs</li><li>TBD</li></ol></i> | |
 | Saturday 27 September | September Weekend | 
-| Saturday 4 October | <i>**Homayra Aslam**</i> | <ol><li>Kirsty Graham ✅</li><li>Karina Thomas ✅</li><li>Morag Munro  ✅</li></ol> | | 
+| Saturday 4 October | **Homayra Aslam ✅** | <ol><li>Kirsty Graham ✅</li><li>Karina Thomas ✅</li><li>Morag Munro  ✅</li></ol> | | 
 
