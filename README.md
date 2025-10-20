@@ -12,7 +12,7 @@
 | Saturday 1 November | **Jo Irwin** | <ol><li>Duncan Boyd</li><li>Karina Thomas</li><li>TBD</li></ol> | |
 | Saturday 8 November | **Morag Munro** | <ol><li>Gail Lappin</li><li>Roslyn Pettigrew</li><li>Susan Rodger</li></ol> | |
 | Saturday 15 November | **Caroline Beaton** | <ol><li>Pippa Watson</li><li>Anne McFarlane</li><li>Karina Thomas</li></ol> | |
-| Saturday 22 November | **Gillian Morrison** | <ol><li>TBD</li><li>Sarah Mackay</li><li>Homayra Aslam</li></ol> | |
+| Saturday 22 November | **Gillian Morrison** | <ol><li>TBD</li><li>Sarah Mackay</li><li>Homayra Aslam</li></ol> | _Standby_ <ol><li>Gail Lappin</li></ol> |
 | Saturday 29 November | **Gail Lappin** | <ol><li>Isabel Boyd</li><li>Marian Quinn</li><li>Kirsty Graham</li></ol> | |
 | Saturday 6 December | Christmas Fair |
 | Saturday 13 December | **Homayra Aslam** | <ol><li>Roslyn Pettigrew</li><li>Pippa Watson</li><li>TzeYeng Ng</li></ol> | |
