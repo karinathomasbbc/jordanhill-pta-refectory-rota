@@ -14,7 +14,7 @@
 | Saturday 15 November | **Caroline Beaton** | <ol><li>Pippa Watson</li><li>Anne McFarlane</li><li>Karina Thomas  ✅</li></ol> | |
 | Saturday 22 November | **Gillian Morrison** | <ol><li>TBD</li><li>Sarah Mackay</li><li>Homayra Aslam</li></ol> | _Standby_ <br />Gail Lappin<br /><br /> |
 | Saturday 29 November | **Gail Lappin** | <ol><li>Isabel Boyd</li><li>Marian Quinn</li><li>Kirsty Graham</li></ol> | |
-| Saturday 6 December | Christmas Fair |
+| Saturday 6 December | Christmas Fair 🎅 🎄 |
 | Saturday 13 December | **Homayra Aslam  ✅** | <ol><li>Roslyn Pettigrew</li><li>Pippa Watson</li><li>TzeYeng Ng</li></ol> | |
 
 
