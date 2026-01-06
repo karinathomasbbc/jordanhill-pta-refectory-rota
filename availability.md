@@ -1,7 +1,7 @@
-# Availability - November / December 2025
+# Availability - January - March 2026
 
-| Name              | Sat 10 Jan | Sat 17 Jan | Sat 24 Jan | Sat 31 Jan | Sat 7 Feb | Sat 14 Feb |
-| ----------------  | ---------- | ---------- | ---------- | ---------- | --------- | ---------- |
+| Name              | Sat 10 Jan | Sat 17 Jan | Sat 24 Jan | Sat 31 Jan | Sat 7 Feb | Sat 14 Feb | Sat 21 Feb | Sat 28 Feb |
+| ----------------  | ---------- | ---------- | ---------- | ---------- | --------- | ---------- | ---------- | ---------- |
 | Anne McFarlane    |            |            |            |            |           |            |
 | Caroline Beaton   |            |            |            |            |           |            |
 | Colin Hughes      |            |            |            |            |           |            |
