@@ -22,7 +22,7 @@
 | Duncan Boyd       |❌          |            |            |            |           |            |❌           |            |❌          |            |
 | Fiona May Simpson |❌          |❌          |            |            |           |            |❌           |❌          |            |❌            |
 | Isabel Boyd       |❌          |            |            |            |           |            |❌           |            |❌          |            |
-| Karina Thomas     |❌          |❌          |❌           |❌          |           |            |            |            |            |          |
+| Karina Thomas     |❌          |❌          |❌           |          |           |            |            |            |            |          |
 | Mhairi Speirs     |            |            |            |            |           |            |            |            |            |            |
 | Roslyn Pettigrew  |❌          |            |            |            |❌         |            |❌           |❌          |            |            |
 | Sarah Mackay      |❌          |❌          |            |            |           |            |            |            |            |            |
