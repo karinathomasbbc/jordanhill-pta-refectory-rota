@@ -16,6 +16,12 @@
 ## Availability
 
 ### Leaders
+
+**Key**
+- ❌: Not Available
+- ✅: On rota 
+
+
 | Name              | Sat 17 Jan | Sat 24 Jan | Sat 31 Jan | Sat 7 Feb | Sat 21 Feb | Sat 28 Feb | Sat 7 Mar  | Sat 14 Mar | Sat 21 Mar | Sat 28 Mar |
 | ----------------  | ---------- | ---------- | ---------- | ---------- | --------- | ---------- | ---------- | ---------- | ---------- | ---------- |
 | Caroline Beaton   |            |            |            |            |           |            |            |❌          |            |            |
@@ -25,8 +31,8 @@
 | Jo Irwin          |❌          |❌           |❌          |            |           |            |            |❌          |            |            |
 | Kirsty Graham     |            |            |❌          |            |❌          |            |            |            |            |            |
 | Marian Quinn      |❌          |❌           |❌          |            |❌         |            |            |            |            |❌            |
-| Morag Munro       |            |            |            |            |           |            |❌          |❌           |            |            |
-| Pippa Watson      |            |            |            |            |           |❌          |❌          |❌           |            |            |
+| Morag Munro       |✅            |            |            |            |           |            |❌          |❌           |            |            |
+| Pippa Watson      |✅            |            |            |            |           |❌          |❌          |❌           |            |            |
 
 ### Helpers
 
@@ -41,5 +47,5 @@
 | Mhairi Speirs     |            |            |            |            |           |            |            |            |            |            |
 | Roslyn Pettigrew  |❌          |            |            |            |❌         |            |❌           |❌          |            |            |
 | Sarah Mackay      |❌          |❌          |            |            |           |            |            |            |            |            |
-| Susan Rodger      |            |❌          |❌          |❌           |           |❌          |            |            |            |           |
+| Susan Rodger      |✅            |❌          |❌          |❌           |           |❌          |            |            |            |           |
 | TzeYeng Ng        |❌          |❌          |❌            |❌           |❌         |❌          |❌          |            |❌           |❌        |
