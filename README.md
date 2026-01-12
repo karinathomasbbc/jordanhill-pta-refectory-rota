@@ -10,30 +10,7 @@
 | Saturday 7 February  | **Gail Lappin**    | <ol><li>Jo Irwin</li><li>Fiona May Simpson</li><li>Karina Thomas</li></ol>                                  |
 | Saturday 21 February | **Gillian Morrison** | <ol><li>Colin Hughes</li><li>Karina Thomas</li><li>Sarah Mackay</li></ol>                                    |
 | Saturday 28 February | **Jo Irwin**         | <ol><li>Duncan Boyd</li><li>Anne McFarlane</li><li>Homayra Aslam</li></ol>                                   |
-| Saturday 7 March     | **Gail Lappin**      | <ol><li>Jo Irwin</li><li>Fiona May Simpson</li><li>Karina Thomas</li></ol>                                   |
+| Saturday 7 March     | **Gail Lappin**      | <ol><li>TBD</li><li>Fiona May Simpson</li><li>Karina Thomas</li></ol>                                   |
 | Saturday 14 March    | **Caroline Beaton**  | <ol><li>Susan Rodger</li><li>Karina Thomas</li><li>Sarah Mackay</li></ol>                                     |
 | Saturday 21 March    | **Kirsty Graham**    | <ol><li>Anne McFarlane</li><li>Fiona May Simpson</li><li>Pippa Watson</li></ol>                                 |
-| Saturday 28 March    | **Jo Irwin**         | <ol><li>Homayra Aslam</li><li>Karina Thomas</li><li>Jo Irwin</li></ol>                                        |
-
----
-
-## Totals Table (Alphabetical, Balanced)
-
-| Name               | Shifts | Total Shifts |
-|------------------- |------- |------------- |
-| Anne McFarlane      | 2      | 2           |
-| Caroline Beaton     | 2      | 2           |
-| Colin Hughes        | 2      | 2           |
-| Duncan Boyd         | 2      | 2           |
-| Fiona May Simpson   | 2      | 2           |
-| Gail Lappin         | 1      | 1           |
-| Gillian Morrison    | 1      | 1           |
-| Homayra Aslam       | 2      | 2           |
-| Isabel Boyd         | 2      | 2           |
-| Jo Irwin            | 2      | 2           |
-| Karina Thomas       | 2      | 2           |
-| Kirsty Graham       | 2      | 2           |
-| Morag Munro         | 1      | 1           |
-| Pippa Watson        | 2      | 2           |
-| Sarah Mackay        | 2      | 2           |
-| Susan Rodger        | 2      | 2           |
+| Saturday 28 March    | **Jo Irwin**         | <ol><li>Homayra Aslam</li><li>Karina Thomas</li><li>TBD</li></ol>                                        |
