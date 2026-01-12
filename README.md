@@ -4,16 +4,16 @@
 
 | Date                 | Leader               | Helpers                                                                                                  |
 |----------------------|----------------------|-----------------------------------------------------------------------------------------------------------|
-| Saturday 17 January  | **Morag Munro**      | <ol><li>Susan Rodger</li><li>Homayra Aslam</li><li>Kirsty Graham</li></ol>                                  |
-| Saturday 24 January  | **Gail Lappin**      | <ol><li>Colin Hughes</li><li>Fiona May Simpson</li><li>Karina Thomas</li></ol>                              |
-| Saturday 31 January  | **Caroline Beaton**  | <ol><li>Anne McFarlane</li><li>Duncan Boyd</li><li>Isabel Boyd</li></ol>                                    |
-| Saturday 7 February  | **Kirsty Graham**    | <ol><li>Jo Irwin</li><li>Caroline Beaton</li><li>Isabel Boyd</li></ol>                                      |
-| Saturday 21 February | **Gillian Morrison** | <ol><li>Colin Hughes</li><li>Isabel Boyd</li><li>Karina Thomas</li></ol>                                     |
+| Saturday 17 January  | **Morag Munro**      | <ol><li>Susan Rodger</li><li>Homayra Aslam</li><li>Pippa Watson</li></ol>                                  |
+| Saturday 24 January  | **Kirsty Graham**    | <ol><li>Isabel Boyd</li><li>Colin Hughes</li><li>Sarah Mackay</li></ol> <!-- unavoidable newly qualified exception --> |
+| Saturday 31 January  | **Caroline Beaton**  | <ol><li>Anne McFarlane</li><li>Duncan Boyd</li><li>Pippa Watson</li></ol>                                   |
+| Saturday 7 February  | **Kirsty Graham**    | <ol><li>Jo Irwin</li><li>Fiona May Simpson</li><li>Karina Thomas</li></ol>                                  |
+| Saturday 21 February | **Gillian Morrison** | <ol><li>Colin Hughes</li><li>Karina Thomas</li><li>Sarah Mackay</li></ol>                                    |
 | Saturday 28 February | **Jo Irwin**         | <ol><li>Duncan Boyd</li><li>Anne McFarlane</li><li>Homayra Aslam</li></ol>                                   |
-| Saturday 7 March     | **Gail Lappin**      | <ol><li>Isabel Boyd</li><li>Karina Thomas</li><li>Jo Irwin</li></ol>                                         |
-| Saturday 14 March    | **Caroline Beaton**  | <ol><li>Susan Rodger</li><li>Sarah Mackay</li><li>Isabel Boyd</li></ol>                                     |
-| Saturday 21 March    | **Kirsty Graham**    | <ol><li>Anne McFarlane</li><li>Fiona May Simpson</li><li>Karina Thomas</li></ol>                              |
-| Saturday 28 March    | **Jo Irwin**         | <ol><li>Homayra Aslam</li><li>Karina Thomas</li><li>Jo Irwin</li></ol>                                       |
+| Saturday 7 March     | **Gail Lappin**      | <ol><li>Jo Irwin</li><li>Fiona May Simpson</li><li>Karina Thomas</li></ol>                                   |
+| Saturday 14 March    | **Caroline Beaton**  | <ol><li>Susan Rodger</li><li>Karina Thomas</li><li>Sarah Mackay</li></ol>                                     |
+| Saturday 21 March    | **Kirsty Graham**    | <ol><li>Anne McFarlane</li><li>Fiona May Simpson</li><li>Pippa Watson</li></ol>                                 |
+| Saturday 28 March    | **Jo Irwin**         | <ol><li>Homayra Aslam</li><li>Karina Thomas</li><li>Jo Irwin</li></ol>                                        |
 
 ---
 
@@ -26,7 +26,7 @@
 | Colin Hughes        | 2      | 2           |
 | Duncan Boyd         | 2      | 2           |
 | Fiona May Simpson   | 2      | 2           |
-| Gail Lappin         | 2      | 2           |
+| Gail Lappin         | 1      | 1           |
 | Gillian Morrison    | 1      | 1           |
 | Homayra Aslam       | 2      | 2           |
 | Isabel Boyd         | 2      | 2           |
@@ -34,5 +34,6 @@
 | Karina Thomas       | 2      | 2           |
 | Kirsty Graham       | 2      | 2           |
 | Morag Munro         | 1      | 1           |
+| Pippa Watson        | 2      | 2           |
 | Sarah Mackay        | 2      | 2           |
 | Susan Rodger        | 2      | 2           |
