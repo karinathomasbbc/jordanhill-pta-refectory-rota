@@ -9,8 +9,8 @@
 | Saturday 31 January  | **Caroline Beaton**  | <ol><li>Anne McFarlane</li><li>Duncan Boyd</li><li>Sarah Mackay</li></ol>                                   |
 | Saturday 7 February  | **Gail Lappin**    | <ol><li>Jo Irwin</li><li>Fiona May Simpson</li><li>Karina Thomas</li></ol>                                  |
 | Saturday 21 February | **Gillian Morrison** | <ol><li>Susan Rodger</li><li>TBD</li><li>Sarah Mackay</li></ol>                                    |
-| Saturday 28 February | **Jo Irwin**         | <ol><li>Duncan Boyd</li><li>Anne McFarlane</li><li>Homayra Aslam</li></ol>                                   |
-| Saturday 7 March     | **Gail Lappin**      | <ol><li>TBD</li><li>Fiona May Simpson</li><li>TBD</li></ol>                                   |
+| Saturday 28 February | **Jo Irwin**         | <ol><li>Duncan Boyd</li><li>TBD</li><li>Homayra Aslam</li></ol>                                   |
+| Saturday 7 March     | **Gail Lappin**      | <ol><li>Anne McFarlane</li><li>Fiona May Simpson</li><li>TBD</li></ol>                                   |
 | Saturday 14 March    | **Caroline Beaton**  | <ol><li>Susan Rodger</li><li>TBD</li><li>Sarah Mackay</li></ol>                                     |
 | Saturday 21 March    | **Kirsty Graham**    | <ol><li>Anne McFarlane</li><li>Fiona May Simpson</li><li>Pippa Watson</li></ol>                                 |
 | Saturday 28 March    | **Jo Irwin**         | <ol><li>Homayra Aslam</li><li>Karina Thomas</li><li>TBD</li></ol>                                        |
