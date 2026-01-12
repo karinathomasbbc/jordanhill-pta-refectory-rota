@@ -2,7 +2,7 @@
 
 | Date                 | Leader               | Helpers                                                                                                  |
 |----------------------|----------------------|-----------------------------------------------------------------------------------------------------------|
-| Saturday 17 January  | **Morag Munro**      | <ol><li>Susan Rodger</li><li>Caroline Beaton</li><li>Pippa Watson</li></ol> |
+| Saturday 17 January  | **Caroline Beaton**      | <ol><li>Susan Rodger</li><li>TBD</li><li>Pippa Watson</li></ol> |
 | Saturday 24 January  | **Homayra Aslam**    | <ol><li>Kirsty Graham</li><li>Colin Hughes</li><li>Roslyn Pettigrew</li></ol> |
 | Saturday 31 January  | **Morag Munro**  | <ol><li>Anne McFarlane</li><li>Duncan Boyd</li><li>Sarah Mackay</li></ol>                                   |
 | Saturday 7 February  | **Gail Lappin**    | <ol><li>Jo Irwin</li><li>Fiona May Simpson</li><li>Karina Thomas</li></ol>                                  |
