@@ -27,4 +27,4 @@
 | Roslyn Pettigrew  |❌          |            |            |            |❌         |            |❌           |❌          |            |            |
 | Sarah Mackay      |❌          |❌          |            |            |           |            |            |            |            |            |
 | Susan Rodger      |            |❌          |❌          |❌           |           |❌          |            |            |            |           |
-| TzeYeng Ng        |❌          |❌          |            |❌           |❌         |❌          |❌          |            |❌           |❌           |
+| TzeYeng Ng        |❌          |❌          |❌            |❌           |❌         |❌          |❌          |            |❌           |❌        |
