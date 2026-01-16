@@ -16,8 +16,6 @@
 
 ## Availability
 
-### Leaders
-
 **Key**
 
 -   ❌: Not Available
@@ -25,6 +23,7 @@
 
 | Name             | Sat 17 Jan | Sat 24 Jan | Sat 31 Jan | Sat 7 Feb | Sat 21 Feb | Sat 28 Feb | Sat 7 Mar | Sat 14 Mar | Sat 21 Mar | Sat 28 Mar | Total Shifts |
 | ---------------- | :--------: | :--------: | :--------: | :-------: | :--------: | :--------: | :-------: | :--------: | :--------: | :--------: | :----------: |
+| **Leaders**      | 
 | Caroline Beaton  |     ✅     |            |            |           |            |            |    ✅     |     ❌     |            |            |      2       |
 | Gail Lappin      |     ❌     |     ❌     |            |    ✅     |            |     ❌     |    ❌     |     ❌     |            |            |      1       |
 | Gillian Morrison |     ❌     |            |            |    ❌     |     ✅     |            |    ❌     |            |            |            |      1       |
@@ -34,11 +33,7 @@
 | Marian Quinn     |     ❌     |     ✅     |     ❌     |           |     ❌     |            |           |     ✅     |            |     ❌     |      2       |
 | Morag Munro      |            |            |     ✅     |           |            |            |    ❌     |     ❌     |            |            |      1       |
 | Pippa Watson     |     ✅     |            |            |           |            |     ❌     |    ❌     |     ❌     |     ✅     |            |      2       |
-
-### Helpers
-
-| Name              | Sat 17 Jan | Sat 24 Jan | Sat 31 Jan | Sat 7 Feb | Sat 21 Feb | Sat 28 Feb | Sat 7 Mar | Sat 14 Mar | Sat 21 Mar | Sat 28 Mar | Total Shifts |
-| ----------------- | :--------: | :--------: | :--------: | :-------: | :--------: | :--------: | :-------: | :--------: | :--------: | :--------: | :----------: |
+| **Helpers**      |
 | Anne McFarlane    |     ❌     |     ❌     |     ✅     |    ❌     |     ❌     |            |    ✅     |     ❌     |            |     ✅     |      3       |
 | Colin Hughes      |     ❌     |     ✅     |            |    ❌     |     ❌     |            |           |            |     ❌     |     ❌     |      1       |
 | Duncan Boyd       |     ❌     |            |     ✅     |           |            |            |    ❌     |            |     ❌     |            |      1       |
