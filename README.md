@@ -2,8 +2,7 @@
 
 | Date                 | Leader               | Helpers                                                                       |
 | -------------------- | -------------------- | ----------------------------------------------------------------------------- |
-| Saturday 21 February | **Gillian Morrison** | <ol><li>Susan Rodger</li><li>TBD</li><li>Sarah Mackay</li></ol>        |
-| Saturday 28 February | **Jo Irwin**         | <ol><li>Isabel Boyd</li><li>Roslyn Pettigrew</li><li>TBD</li></ol>            |
+| Saturday 28 February | **Jo Irwin**         | <ol><li>Isabel Boyd</li><li>Roslyn Pettigrew</li><li>Homayra Aslam</li></ol>            |
 | Saturday 7 March     | **Morag Munro**  | <ol><li>Anne McFarlane</li><li>Karina Thomas</li><li>TBD</li></ol>            |
 | Saturday 14 March    | **Marian Quinn**     | <ol><li>Susan Rodger</li><li>TBD</li><li>Sarah Mackay</li></ol>               |
 | Saturday 21 March    | **Kirsty Graham**    | <ol><li>TBD</li><li>Fiona May Simpson</li><li>Pippa Watson</li></ol>          |
