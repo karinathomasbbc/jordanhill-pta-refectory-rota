@@ -3,7 +3,7 @@
 | Date                 | Leader               | Helpers                                                                       |
 | -------------------- | -------------------- | ----------------------------------------------------------------------------- |
 | Saturday 14 March    | **Marian Quinn**     | <ol><li>Anne McFarlane</li><li>Sarah Mackay (Standby: Kirsty Graham)</li><li>TBD</li></ol>               |
-| Saturday 21 March    | **Kirsty Graham (Standby: Sarah Mackay**    | <ol><li>Susan Rodger</li><li>Fiona May Simpson</li><li>TBD</li></ol>          |
+| Saturday 21 March    | **Kirsty Graham (Standby: Sarah Mackay)**    | <ol><li>Susan Rodger</li><li>Fiona May Simpson</li><li>TBD</li></ol>          |
 | Saturday 28 March    | **Jo Irwin**         | <ol><li>Homayra Aslam</li><li>Karina Thomas</li><li>Pippa Watson</li></ol>  |
 
 ## Availability
