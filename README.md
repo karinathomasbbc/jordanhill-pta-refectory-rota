@@ -1,4 +1,4 @@
-# Jordanhill School PTA Refectory Rota: January – March 2026
+# Jordanhill School PTA Refectory Rota: March - June 2026
 
 | Date                 | Leader               | Helpers                                                                       | 
 | -------------------- | -------------------- | ----------------------------------------------------------------------------- |
