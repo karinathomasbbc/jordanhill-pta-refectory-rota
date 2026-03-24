@@ -1,10 +1,22 @@
 # Jordanhill School PTA Refectory Rota: January – March 2026
 
-| Date                 | Leader               | Helpers                                                                       |
+| Date                 | Leader               | Helpers                                                                       | 
 | -------------------- | -------------------- | ----------------------------------------------------------------------------- |
-| Saturday 14 March    | **Marian Quinn**     | <ol><li>Anne McFarlane</li><li>Sarah Mackay (Standby: Kirsty Graham)</li><li>TBD</li></ol>               |
-| Saturday 21 March    | **Kirsty Graham (Standby: Sarah Mackay)**    | <ol><li>Susan Rodger</li><li>Fiona May Simpson</li><li>TBD</li></ol>          |
-| Saturday 28 March    | **Jo Irwin**         | <ol><li>Homayra Aslam</li><li>Karina Thomas</li><li>Pippa Watson</li></ol>  |
+| Saturday 28 March    | **Cancelled** 
+| Saturday 4 April     | **Easter Break 🐣** 
+| Saturday 11 April    | **Easter Break 🐣** 
+| Saturday 18 April    | **Easter Break 🐣** 
+| Saturday 25 April    | **TBD**              | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
+| Saturday 2 May       | **May Bank Holiday** 
+| Saturday 9 May       | **TBD**              | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
+| Saturday 9 May       | **PTA Uniform Sale** | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
+| Saturday 16 May      | **TBD**              | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
+| Saturday 23 May      | **May Bank Holiday**
+| Saturday 30 May      | **TBD**              | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
+| Saturday 6 June      | **TBD**              | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
+| Saturday 13 June     | **Sports Day**
+
+
 
 ## Availability
 
@@ -13,27 +25,28 @@
 -   ❌: Not Available
 -   ✅: On Rota
 
-| Name             | Sat 17 Jan | Sat 24 Jan | Sat 31 Jan | Sat 7 Feb | Sat 21 Feb | Sat 28 Feb | Sat 7 Mar | Sat 14 Mar | Sat 21 Mar | Sat 28 Mar | Total Shifts |
-| ---------------- | :--------: | :--------: | :--------: | :-------: | :--------: | :--------: | :-------: | :--------: | :--------: | :--------: | :----------: |
-| **Leaders**      | 
-| Caroline Beaton  |     ✅     |            |            |           |            |            |    ✅     |     ❌     |            |            |      2       |
-| Gail Lappin      |     ❌     |     ❌     |            |    ✅     |            |     ❌     |    ❌     |     ❌     |            |            |      1       |
-| Gillian Morrison |     ❌     |            |            |    ❌     |     ✅     |            |    ❌     |            |            |            |      1       |
-| Homayra Aslam    |     ✅     |            |            |           |     ❌     |     ❌     |    ❌     |     ❌     |            |     ✅     |      2       |
-| Jo Irwin         |     ❌     |     ❌     |     ❌     |    ✅     |            |     ✅     |           |     ❌     |            |     ✅     |      3       |
-| Kirsty Graham    |            |     ✅     |     ❌     |           |     ❌     |            |           |            |     ✅     |            |      2       |
-| Marian Quinn     |     ❌     |     ✅     |     ❌     |           |     ❌     |            |           |     ✅     |            |     ❌     |      2       |
-| Morag Munro      |            |            |     ✅     |           |            |            |    ❌     |     ❌     |            |            |      1       |
-| Pippa Watson     |     ✅     |            |            |           |            |     ❌     |    ❌     |     ❌     |     ✅     |            |      2       |
-| **Helpers**      |
-| Anne McFarlane    |     ❌     |     ❌     |     ✅     |    ❌     |     ❌     |            |    ✅     |     ❌     |            |     ✅     |      3       |
-| Colin Hughes      |     ❌     |     ✅     |            |    ❌     |     ❌     |            |           |            |     ❌     |     ❌     |      1       |
-| Duncan Boyd       |     ❌     |            |     ✅     |           |            |            |    ❌     |            |     ❌     |            |      1       |
-| Fiona May Simpson |     ❌     |     ❌     |            |    ✅     |            |            |    ❌     |     ❌     |     ✅     |     ❌     |      2       |
-| Isabel Boyd       |     ❌     |            |            |           |            |     ✅     |    ❌     |            |     ❌     |            |      1       |
-| Karina Thomas     |     ❌     |     ❌     |     ❌     |    ✅     |            |            |    ✅     |            |            |     ✅     |      3       |
-| Mhairi Speirs     |            |            |            |           |            |            |           |            |            |            |              |
-| Roslyn Pettigrew  |     ❌     |     ✅     |            |           |     ❌     |     ✅     |    ❌     |     ❌     |            |            |      2       |
-| Sarah Mackay      |     ❌     |     ❌     |     ✅     |           |     ✅     |            |           |     ✅     |            |            |      3       |
-| Susan Rodger      |     ✅     |     ❌     |     ❌     |    ❌     |     ✅     |     ❌     |           |     ✅     |            |            |      3       |
-| TzeYeng Ng        |     ❌     |     ❌     |     ❌     |    ❌     |     ❌     |     ❌     |    ❌     |            |     ❌     |     ❌     |      0       |
+
+| Name              | Sat 25 April | Sat 9 May  | Sat 16 May | Sat 30 May | Sat 6 June | Total Shifts |
+| ----------------- | :----------: | :--------: | :--------: | :--------: | :--------: | :----------: |
+| **Leaders**       | 
+| Caroline Beaton   |              |            |            |            |            |              |
+| Gail Lappin       |              |            |            |            |            |              |
+| Gillian Morrison  |              |            |            |            |            |              |
+| Homayra Aslam     |              |            |            |            |            |              |
+| Jo Irwin          |              |            |            |            |            |              |
+| Kirsty Graham     |              |            |            |            |            |              |
+| Marian Quinn      |              |            |            |            |            |              |
+| Morag Munro       |              |            |            |            |            |              |
+| Pippa Watson      |              |            |            |            |            |              |
+| **Helpers**       |
+| Anne McFarlane    |              |            |            |            |            |              |
+| Colin Hughes      |              |            |            |            |            |              |
+| Duncan Boyd       |              |            |            |            |            |              |
+| Fiona May Simpson |              |            |            |            |            |              |
+| Isabel Boyd       |              |            |            |            |            |              |
+| Karina Thomas     |              |            |            |            |            |              |
+| Mhairi Speirs     |              |            |            |            |            |              |
+| Roslyn Pettigrew  |              |            |            |            |            |              |
+| Sarah Mackay      |              |            |            |            |            |              |
+| Susan Rodger      |              |            |            |            |            |              |
+| TzeYeng Ng        |              |            |            |            |            |              |
