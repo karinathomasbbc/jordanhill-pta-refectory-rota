@@ -35,18 +35,19 @@
 | Homayra Aslam     |              |            |            |            |            |              |
 | Jo Irwin          |              |            |            |            |            |              |
 | Kirsty Graham     |              |            |            |            |            |              |
-| Marian Quinn      |              |            |            |            |            |              |
+| Marian Quinn      |              |❌          |            |            |            |              |
 | Morag Munro       |              |            |            |            |            |              |
-| Pippa Watson      |              |            |            |            |            |              |
+| Pippa Watson      |              |❌          |            |            |            |              |
 | **Helpers**       |
 | Anne McFarlane    |              |            |            |            |            |              |
 | Colin Hughes      |              |            |            |            |            |              |
 | Duncan Boyd       |              |            |            |            |            |              |
 | Fiona May Simpson |              |            |            |            |            |              |
 | Isabel Boyd       |              |            |            |            |            |              |
+| Jax               |              |            |            |            |            |              |
 | Karina Thomas     |              |            |            |            |            |              |
 | Mhairi Speirs     |              |            |            |            |            |              |
-| Roslyn Pettigrew  |              |            |            |            |            |              |
+| Roslyn Pettigrew  |              |❌          |            |            |            |              |
 | Sarah Mackay      |              |            |            |            |            |              |
 | Susan Rodger      |              |            |            |            |            |              |
 | TzeYeng Ng        |              |            |            |            |            |              |
