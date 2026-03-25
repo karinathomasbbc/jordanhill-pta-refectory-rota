@@ -30,7 +30,7 @@
 | ----------------- | :----------: | :--------: | :--------: | :--------: | :--------: | :----------: |
 | **Leaders**       | 
 | Caroline Beaton   |              |            |            |            |            |              |
-| Gail Lappin       |              |            |            |            |            |              |
+| Gail Lappin       |              |✅          |            |            |            |              |
 | Gillian Morrison  |              |            |            |            |            |              |
 | Homayra Aslam     |              |            |            |            |            |              |
 | Jo Irwin          |              |            |            |            |            |              |
@@ -40,14 +40,16 @@
 | Pippa Watson      |              |❌          |            |            |            |              |
 | **Helpers**       |
 | Anne McFarlane    |              |            |            |            |            |              |
-| Colin Hughes      |              |            |            |            |            |              |
-| Duncan Boyd       |              |            |            |            |            |              |
-| Fiona May Simpson |              |            |            |            |            |              |
+| Colin Hughes      |              |✅          |            |            |            |              |
+| Duncan Boyd       |              |✅          |            |            |            |              |
+| Fiona May Simpson |              |✅          |            |            |            |              |
 | Isabel Boyd       |              |            |            |            |            |              |
-| Jax               |              |            |            |            |            |              |
+| Jax               |              |✅          |            |            |            |              |
+| Jennifer          |              |✅          |            |            |            |              |
 | Karina Thomas     |              |            |            |            |            |              |
+| Kirsty Brown      |              |✅          |            |            |            |              |
 | Mhairi Speirs     |              |            |            |            |            |              |
 | Roslyn Pettigrew  |              |❌          |            |            |            |              |
 | Sarah Mackay      |              |            |            |            |            |              |
 | Susan Rodger      |              |            |            |            |            |              |
-| TzeYeng Ng        |              |            |            |            |            |              |
+| TzeYeng Ng        |              |✅          |            |            |            |              |
