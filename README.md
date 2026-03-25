@@ -51,5 +51,5 @@
 | Mhairi Speirs     |              |            |            |            |            |              |
 | Roslyn Pettigrew  |              |❌          |            |            |            |              |
 | Sarah Mackay      |              |            |            |            |            |              |
-| Susan Rodger      |              |            |            |            |            |              |
+| Susan Rodger      |              |❌          |            |            |            |              |
 | TzeYeng Ng        |              |✅          |            |            |            |              |
