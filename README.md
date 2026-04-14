@@ -2,9 +2,6 @@
 
 | Date                 | Leader               | Helpers                                                                       | 
 | -------------------- | -------------------- | ----------------------------------------------------------------------------- |
-| Saturday 28 March    | **Cancelled** 
-| Saturday 4 April     | **Easter Break 🐣** 
-| Saturday 11 April    | **Easter Break 🐣** 
 | Saturday 18 April    | **Easter Break 🐣** 
 | Saturday 25 April    | **TBD**              | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
 | Saturday 2 May       | **May Bank Holiday** 
