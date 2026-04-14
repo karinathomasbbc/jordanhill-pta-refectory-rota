@@ -34,7 +34,7 @@
 | Kirsty Graham     |              |            |            |            |            |              |
 | Marian Quinn      |              |❌          |            |            |            |              |
 | Morag Munro       |              |            |            |            |            |              |
-| Pippa Watson      |              |❌          |            |            |            |              |
+| Pippa Watson      |❌            |❌          |❌         |            |            |              |
 | **Helpers**       |
 | Anne McFarlane    |              |            |            |            |            |              |
 | Colin Hughes      |              |✅          |            |            |            |              |
@@ -43,7 +43,7 @@
 | Isabel Boyd       |              |            |            |            |            |              |
 | Jax               |              |✅          |            |            |            |              |
 | Jennifer          |              |✅          |            |            |            |              |
-| Karina Thomas     |              |            |            |            |            |              |
+| Karina Thomas     |              |            |            |❌          |            |              |
 | Kirsty Brown      |              |✅          |            |            |            |              |
 | Mhairi Speirs     |              |            |            |            |            |              |
 | Roslyn Pettigrew  |              |❌          |            |            |            |              |
