@@ -5,7 +5,7 @@
 | Saturday 18 April    | **Easter Break 🐣** 
 | Saturday 25 April    | **TBD**              | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
 | Saturday 2 May       | **May Bank Holiday** 
-| Saturday 9 May       | **Gail Lappin**      | <ol><li>TzeYeng Ng</li><li>Fiona May Simpson</li><li>TBD</li></ol>  |
+| Saturday 9 May       | **Gail Lappin**      | <ol><li>TzeYeng Ng</li><li>Fiona May Simpson</li><li>Duncan Boyd</li></ol>  |
 | Saturday 9 May       | **PTA Uniform Sale** | <ol><li>Kirsty Brown</li><li>Colin Hughes</li><li>TBD</li></ol>  |
 | Saturday 16 May      | **TBD**              | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
 | Saturday 23 May      | **May Bank Holiday**
