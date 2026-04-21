@@ -26,27 +26,27 @@
 | Name              | Sat 25 April | Sat 9 May  | Sat 16 May | Sat 30 May | Sat 6 June | Total Shifts |
 | ----------------- | :----------: | :--------: | :--------: | :--------: | :--------: | :----------: |
 | **Leaders**       | 
-| Caroline Beaton   |❌            |            |            |            |            |              |
-| Gail Lappin       |❌            |✅          |            |            |            | 1            |
+| Caroline Beaton   |❌            |            |            |❌          |            |              |
+| Gail Lappin       |❌            |✅          |❌          |❌          |❌         | 1            |
 | Gillian Morrison  |❌            |            |            |            |            |              |
 | Homayra Aslam     |              |            |            |            |            |              |
-| Jo Irwin          |❌            |            |            |            |            |              |
-| Kirsty Graham     |❌            |            |            |            |            |              |
-| Marian Quinn      |❌            |❌          |            |            |            |              |
-| Morag Munro       |❌            |            |            |            |            |              |
+| Jo Irwin          |❌            |            |            |❌          |❌          |              |
+| Kirsty Graham     |❌            |            |            |❌          |            |              |
+| Marian Quinn      |❌            |❌          |❌          |            |❌          |              |
+| Morag Munro       |❌            |            |            |            |❌          |              |
 | Pippa Watson      |❌            |❌          |❌         |            |            |              |
 | **Helpers**       |
-| Anne McFarlane    |❌            |            |            |            |            |              |
+| Anne McFarlane    |❌            |            |            |❌          |❌          |              |
 | Colin Hughes      |              |✅          |            |            |            | 1            |
-| Duncan Boyd       |              |✅          |            |            |            | 1            |
+| Duncan Boyd       |              |✅          |❌          |❌          |❌         | 1            |
 | Fiona May Simpson |              |✅          |            |            |            | 1            |
-| Isabel Boyd       |              |            |            |            |            |              |
+| Isabel Boyd       |              |            |❌          |❌          |❌          |              |
 | Jax               |              |✅          |            |            |            |              |
 | Jennifer          |              |✅          |            |            |            |              |
 | Karina Thomas     |✅            |            |❌          |❌          |❌         | 1            |
-| Kirsty Brown      |              |✅          |            |            |            |              |
+| Kirsty Brown      |              |✅          |            |            |            | 1            |
 | Mhairi Speirs     |              |            |            |            |            |              |
-| Roslyn Pettigrew  |❌            |❌          |            |            |            |              |
-| Sarah Mackay      |              |            |            |            |            |              |
-| Susan Rodger      |              |❌          |            |            |            |              |
-| TzeYeng Ng        |❌            |✅          |            |            |            | 1            |
+| Roslyn Pettigrew  |❌            |❌          |❌          |            |            |              |
+| Sarah Mackay      |              |            |            |            |❌          |              |
+| Susan Rodger      |              |❌          |❌          |❌          |❌          |              |
+| TzeYeng Ng        |✅            |✅          |❌          |            |            | 2            |
