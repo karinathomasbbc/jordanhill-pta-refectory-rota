@@ -6,11 +6,11 @@
 | Saturday 25 April    | **Homayra Aslam** | <ol><li>Karina Thomas</li><li>TzeYeng Ng</li></ol>  |
 | Saturday 2 May       | **May Bank Holiday** 
 | Saturday 9 May       | **Gail Lappin** | <ol><li>TzeYeng Ng</li><li>Fiona May Simpson</li><li>Duncan Boyd</li></ol>  |
-| Saturday 9 May       | **PTA Uniform Sale** | <ol><li>Kirsty Brown</li><li>Colin Hughes</li><li>TBD</li></ol>  |
+| Saturday 9 May       | **PTA Uniform Sale** | <ol><li>Kirsty Brown</li><li>Colin Hughes</li></ol>  |
 | Saturday 16 May      | **Jo Irwin** | <ol><li>Anne McFarlane</li><li>Caroline Beaton</li><li>TBD</li></ol>  |
 | Saturday 23 May      | **May Bank Holiday**
 | Saturday 30 May      | **Morag Munro** | <ol><li>Sarah Mackay</li><li>Marian Quinn</li><li>TBD</li></ol>  |
-| Saturday 6 June      | **Gillian Morrison** | <ol><li>Kirsty Graham</li><li>Roslyn Pettigrew</li><li>TBD</li></ol>  |
+| Saturday 6 June      | **Gillian Morrison** | <ol><li>Kirsty Graham</li><li>Roslyn Pettigrew</li><li>Pippa Watson</li></ol>  |
 | Saturday 13 June     | **Sports Day**
 
 
@@ -34,7 +34,7 @@
 | Kirsty Graham     |❌            |            |            |❌          |  ✅          | 1             |
 | Marian Quinn      |❌            |❌          |❌          |✅            |❌          | 1             |
 | Morag Munro       |❌            |            |            |✅            |❌          | 1          |
-| Pippa Watson      |❌            |❌          |❌         |            |            |              |
+| Pippa Watson      |❌            |❌          |❌         |            |✅           |              |
 | **Helpers**       |
 | Anne McFarlane    |❌            |            |✅          |❌          |❌          | 1             |
 | Colin Hughes      |              |✅          |            |            |            | 1            |
