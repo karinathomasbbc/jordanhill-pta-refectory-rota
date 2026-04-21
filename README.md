@@ -7,10 +7,10 @@
 | Saturday 2 May       | **May Bank Holiday** 
 | Saturday 9 May       | **Gail Lappin** | <ol><li>TzeYeng Ng</li><li>Fiona May Simpson</li><li>Duncan Boyd</li></ol>  |
 | Saturday 9 May       | **PTA Uniform Sale** | <ol><li>Kirsty Brown</li><li>Colin Hughes</li><li>TBD</li></ol>  |
-| Saturday 16 May      | **Jo Irwin** | <ol><li>Anne McFarlane</li><li>TBD</li><li>TBD</li></ol>  |
+| Saturday 16 May      | **Jo Irwin** | <ol><li>Anne McFarlane</li><li>Caroline Beaton</li><li>TBD</li></ol>  |
 | Saturday 23 May      | **May Bank Holiday**
-| Saturday 30 May      | **Morag Munro** | <ol><li>Sarah Mackay</li><li>TBD</li><li>TBD</li></ol>  |
-| Saturday 6 June      | **Gillian Morrison** | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
+| Saturday 30 May      | **Morag Munro** | <ol><li>Sarah Mackay</li><li>Marian Quinn</li><li>TBD</li></ol>  |
+| Saturday 6 June      | **Gillian Morrison** | <ol><li>Kirsty Graham</li><li>Roslyn Pettigrew</li><li>TBD</li></ol>  |
 | Saturday 13 June     | **Sports Day**
 
 
@@ -26,17 +26,17 @@
 | Name              | Sat 25 April | Sat 9 May  | Sat 16 May | Sat 30 May | Sat 6 June | Total Shifts |
 | ----------------- | :----------: | :--------: | :--------: | :--------: | :--------: | :----------: |
 | **Leaders**       | 
-| Caroline Beaton   |❌            |            |            |❌          |            |              |
+| Caroline Beaton   |❌            |            |✅           |❌          |            | 1             |
 | Gail Lappin       |❌            |✅          |❌          |❌          |❌         | 1            |
 | Gillian Morrison  |❌            |            |            |            |✅          | 1             |
 | Homayra Aslam     |✅            |            |            |            |            | 1             |
 | Jo Irwin          |❌            |            |✅            |❌          |❌          | 1          |
-| Kirsty Graham     |❌            |            |            |❌          |            |              |
-| Marian Quinn      |❌            |❌          |❌          |            |❌          |              |
+| Kirsty Graham     |❌            |            |            |❌          |  ✅          | 1             |
+| Marian Quinn      |❌            |❌          |❌          |✅            |❌          | 1             |
 | Morag Munro       |❌            |            |            |✅            |❌          | 1          |
 | Pippa Watson      |❌            |❌          |❌         |            |            |              |
 | **Helpers**       |
-| Anne McFarlane    |❌            |            |✅          |❌          |❌          |              |
+| Anne McFarlane    |❌            |            |✅          |❌          |❌          | 1             |
 | Colin Hughes      |              |✅          |            |            |            | 1            |
 | Duncan Boyd       |              |✅          |❌          |❌          |❌         | 1            |
 | Fiona May Simpson |              |✅          |            |            |            | 1            |
@@ -46,7 +46,7 @@
 | Karina Thomas     |✅            |            |❌          |❌          |❌         | 1            |
 | Kirsty Brown      |              |✅          |            |            |            | 1            |
 | Mhairi Speirs     |              |            |            |            |            |              |
-| Roslyn Pettigrew  |❌            |❌          |❌          |            |            |              |
+| Roslyn Pettigrew  |❌            |❌          |❌          |            |✅            |              |
 | Sarah Mackay      |              |            |            |✅            |❌          | 1             |
 | Susan Rodger      |              |❌          |❌          |❌          |❌          |              |
 | TzeYeng Ng        |✅            |✅          |❌          |            |            | 2            |
