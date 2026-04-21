@@ -7,10 +7,10 @@
 | Saturday 2 May       | **May Bank Holiday** 
 | Saturday 9 May       | **Gail Lappin**      | <ol><li>TzeYeng Ng</li><li>Fiona May Simpson</li><li>Duncan Boyd</li></ol>  |
 | Saturday 9 May       | **PTA Uniform Sale** | <ol><li>Kirsty Brown</li><li>Colin Hughes</li><li>TBD</li></ol>  |
-| Saturday 16 May      | **TBD**              | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
+| Saturday 16 May      | **Jo Irwin**              | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
 | Saturday 23 May      | **May Bank Holiday**
-| Saturday 30 May      | **TBD**              | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
-| Saturday 6 June      | **TBD**              | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
+| Saturday 30 May      | **Morag Munro**              | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
+| Saturday 6 June      | **Gillian Morrison**              | <ol><li>TBD</li><li>TBD</li><li>TBD</li></ol>  |
 | Saturday 13 June     | **Sports Day**
 
 
@@ -28,12 +28,12 @@
 | **Leaders**       | 
 | Caroline Beaton   |❌            |            |            |❌          |            |              |
 | Gail Lappin       |❌            |✅          |❌          |❌          |❌         | 1            |
-| Gillian Morrison  |❌            |            |            |            |            |              |
-| Homayra Aslam     |              |            |            |            |            |              |
-| Jo Irwin          |❌            |            |            |❌          |❌          |              |
+| Gillian Morrison  |❌            |            |            |            |✅          |              |
+| Homayra Aslam     |✅            |            |            |            |            |              |
+| Jo Irwin          |❌            |            |✅            |❌          |❌          |              |
 | Kirsty Graham     |❌            |            |            |❌          |            |              |
 | Marian Quinn      |❌            |❌          |❌          |            |❌          |              |
-| Morag Munro       |❌            |            |            |            |❌          |              |
+| Morag Munro       |❌            |            |            |✅            |❌          |              |
 | Pippa Watson      |❌            |❌          |❌         |            |            |              |
 | **Helpers**       |
 | Anne McFarlane    |❌            |            |            |❌          |❌          |              |
