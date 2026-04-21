@@ -26,17 +26,17 @@
 | Name              | Sat 25 April | Sat 9 May  | Sat 16 May | Sat 30 May | Sat 6 June | Total Shifts |
 | ----------------- | :----------: | :--------: | :--------: | :--------: | :--------: | :----------: |
 | **Leaders**       | 
-| Caroline Beaton   |              |            |            |            |            |              |
-| Gail Lappin       |              |✅          |            |            |            | 1            |
-| Gillian Morrison  |              |            |            |            |            |              |
+| Caroline Beaton   |❌            |            |            |            |            |              |
+| Gail Lappin       |❌            |✅          |            |            |            | 1            |
+| Gillian Morrison  |❌            |            |            |            |            |              |
 | Homayra Aslam     |              |            |            |            |            |              |
-| Jo Irwin          |              |            |            |            |            |              |
-| Kirsty Graham     |              |            |            |            |            |              |
-| Marian Quinn      |              |❌          |            |            |            |              |
-| Morag Munro       |              |            |            |            |            |              |
+| Jo Irwin          |❌            |            |            |            |            |              |
+| Kirsty Graham     |❌            |            |            |            |            |              |
+| Marian Quinn      |❌            |❌          |            |            |            |              |
+| Morag Munro       |❌            |            |            |            |            |              |
 | Pippa Watson      |❌            |❌          |❌         |            |            |              |
 | **Helpers**       |
-| Anne McFarlane    |              |            |            |            |            |              |
+| Anne McFarlane    |❌            |            |            |            |            |              |
 | Colin Hughes      |              |✅          |            |            |            | 1            |
 | Duncan Boyd       |              |✅          |            |            |            | 1            |
 | Fiona May Simpson |              |✅          |            |            |            | 1            |
@@ -46,7 +46,7 @@
 | Karina Thomas     |✅            |            |❌          |❌          |❌         | 1            |
 | Kirsty Brown      |              |✅          |            |            |            |              |
 | Mhairi Speirs     |              |            |            |            |            |              |
-| Roslyn Pettigrew  |              |❌          |            |            |            |              |
+| Roslyn Pettigrew  |❌            |❌          |            |            |            |              |
 | Sarah Mackay      |              |            |            |            |            |              |
 | Susan Rodger      |              |❌          |            |            |            |              |
-| TzeYeng Ng        |              |✅          |            |            |            | 1            |
+| TzeYeng Ng        |❌            |✅          |            |            |            | 1            |
