@@ -46,7 +46,7 @@
 | Karina Thomas     |✅            |            |❌          |❌          |❌         | 1            |
 | Kirsty Brown      |              |✅          |            |            |            | 1            |
 | Mhairi Speirs     |              |            |            |            |            |              |
-| Roslyn Pettigrew  |❌            |❌          |❌          |            |✅            |              |
+| Roslyn Pettigrew  |❌            |❌          |❌          |            |✅            | 1           |
 | Sarah Mackay      |              |            |            |✅            |❌          | 1             |
 | Susan Rodger      |              |❌          |❌          |❌          |❌          |              |
 | TzeYeng Ng        |✅            |✅          |❌          |            |            | 2            |
