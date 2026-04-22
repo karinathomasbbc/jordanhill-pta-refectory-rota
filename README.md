@@ -7,7 +7,7 @@
 | Saturday 2 May       | **May Bank Holiday** 
 | Saturday 9 May       | **Gail Lappin** | <ol><li>TzeYeng Ng</li><li>Sarah Mackay</li><li>Duncan Boyd</li></ol>  |
 | Saturday 9 May       | **PTA Uniform Sale** | <ol><li>Morag Munro</li><li>Kirsty Brown</li><li>Colin Hughes</li><li>Fiona May Simpson</li><li>Jennifer</li><li>Gillian Morrison</li></ol>  |
-| Saturday 16 May      | **Jo Irwin** | <ol><li>Anne McFarlane</li><li>TBD</li><li>TBD</li></ol>  |
+| Saturday 16 May      | **Jo Irwin** | <ol><li>Anne McFarlane</li><li>Colin Hughes</li><li>TBD</li></ol>  |
 | Saturday 23 May      | **May Bank Holiday**
 | Saturday 30 May      | **Morag Munro** | <ol><li>Sarah Mackay</li><li>Marian Quinn</li><li>TBD</li></ol>  |
 | Saturday 6 June      | **Gillian Morrison** | <ol><li>Kirsty Graham</li><li>Roslyn Pettigrew</li><li>Pippa Watson</li></ol>  |
