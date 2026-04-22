@@ -37,7 +37,7 @@
 | Pippa Watson      |❌            |❌          |❌         |            |✅           |              |
 | **Helpers**       |
 | Anne McFarlane    |❌            |            |✅          |❌          |❌          | 1             |
-| Colin Hughes      |              |✅          |            |            |            | 1            |
+| Colin Hughes      |              |✅          |✅          |            |            | 1            |
 | Duncan Boyd       |              |✅          |❌          |❌          |❌         | 1            |
 | Fiona May Simpson |              |✅          |            |            |            | 1            |
 | Isabel Boyd       |              |            |❌          |❌          |❌          |              |
