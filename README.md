@@ -5,8 +5,8 @@
 | Saturday 18 April    | **Easter Break 🐣** 
 | Saturday 25 April    | **Homayra Aslam** | <ol><li>Karina Thomas</li><li>TzeYeng Ng</li></ol>  |
 | Saturday 2 May       | **May Bank Holiday** 
-| Saturday 9 May       | **Gail Lappin** | <ol><li>TzeYeng Ng</li><li>Sarah Mackay</li><li>Duncan Boyd</li></ol>  |
-| Saturday 9 May       | **PTA Uniform Sale** | <ol><li>Morag Munro</li><li>Kirsty Brown</li><li>Colin Hughes</li><li>Fiona May Simpson</li><li>Jennifer</li><li>Gillian Morrison</li></ol>  |
+| Saturday 9 May       | **Gail Lappin** | <ol><li>Gillian Morrison</li><li>Sarah Mackay</li><li>Duncan Boyd</li></ol>  |
+| Saturday 9 May       | **PTA Uniform Sale** | <ol><li>Morag Munro</li><li>Kirsty Brown</li><li>Colin Hughes</li><li>Fiona May Simpson</li><li>Jennifer</li></ol>  |
 | Saturday 16 May      | **Jo Irwin** | <ol><li>Anne McFarlane</li><li>Colin Hughes</li><li>TBD</li></ol>  |
 | Saturday 23 May      | **May Bank Holiday**
 | Saturday 30 May      | **Morag Munro** | <ol><li>Sarah Mackay</li><li>Marian Quinn</li><li>TBD</li></ol>  |
